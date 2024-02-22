@@ -9,7 +9,7 @@
 
 - CRUD Operation [CRUD Operation](: https://github.com/Amitbhivsane/Amitbhivsane-CRUD-Search-operation.git)
 
--  React Redux product card: [React Redux product card:](https://github.com/Amitbhivsane/Shopping-Cart-React-Redux-ToolKit.git)
+- React Redux product card: [React Redux product card:](https://github.com/Amitbhivsane/Shopping-Cart-React-Redux-ToolKit.git)
 
 - Nodejs-Tutorial [https://github.com/Amitbhivsane/NodeJs-Tutorial.git](https://github.com/Amitbhivsane/NodeJs-Tutorial.git)
 
