@@ -14,6 +14,8 @@
   
 - Nodejs-Tutorial [https://github.com/Amitbhivsane/NodeJs-Tutorial.git](https://github.com/Amitbhivsane/NodeJs-Tutorial.git)
 
+-JavaScript Tutorial **https://github.com/Amitbhivsane/JavaScript_Tutorial.git**
+
 - Css-Tutorial **https://github.com/Amitbhivsane/CSS-Tutorials.git**
 
 - Html-Tutorial **https://github.com/Amitbhivsane/Html-Tutorials.git**
