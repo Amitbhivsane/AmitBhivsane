@@ -3,9 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitbhivsane&label=Profile%20views&color=0e75b6&style=flat" alt="amitbhivsane" /> </p>
 
+- Full stack AI Content Genrator (https://ai-content-generator-iqeo.vercel.app/)
+ 
 - E-commerce Website (MERN Stack) [E-commerce Website (MERN Stack)](https://github.com/Amitbhivsane/MERN-Ecommerce-.git)
   
 - React and Tailwind css web app (https://sahaj-jalgaon.vercel.app/)
+ 
+- Food Restaurant (https://food-ordering-pink-iota.vercel.app/)
+
 - CRUD Operation [CRUD Operation](: https://github.com/Amitbhivsane/Amitbhivsane-CRUD-Search-operation.git)
 
 - React Redux product card: [React Redux product card:](https://github.com/Amitbhivsane/Shopping-Cart-React-Redux-ToolKit.git)
