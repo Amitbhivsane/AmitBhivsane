@@ -11,9 +11,11 @@
  
 - Food Restaurant (https://food-ordering-pink-iota.vercel.app/)
 
+- React Redux product card:(https://shopping-cart-react-redux-tool-kit.vercel.app/)
+
 - CRUD Operation [CRUD Operation](: https://github.com/Amitbhivsane/Amitbhivsane-CRUD-Search-operation.git)
 
-- React Redux product card: [React Redux product card:](https://github.com/Amitbhivsane/Shopping-Cart-React-Redux-ToolKit.git)
+
   
  - React-Tutorial **https://github.com/Amitbhivsane/React-Tutorial**
   
